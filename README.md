@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarj Vaishnav</h1>
+<h1 align="center">Heyy 👋 I'm Tarj Vaishnav</h1>
 <h3 align="center">A passionate designer and content writer who likes to do Game Development on the side</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spellbounderx&label=Profile%20views&color=0e75b6&style=flat" alt="spellbounderx" /> </p>
